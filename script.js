@@ -32,7 +32,7 @@ let windowWidth = window.innerWidth,
         maxScore = 0;
         rod = "Rod1"
     } else {
-        alert(rod + " has maximum score of " + maxScore * 100 + "\n Press Enter to start te game A to move left D to move right");
+        alert(rod + " has maximum score of " + maxScore * 100 + "\n Press Enter to start the game A to move left D to move right");
     }
 
     resetBoard(rod);
